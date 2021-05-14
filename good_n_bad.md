@@ -22,9 +22,9 @@ In [Qoin], the notes for each entry are limited to category, time, and custom no
 
 ### Available App: Digging for Wealth
 
-【Digging for Wealth】is an app for professional users and even for some finance staff to meet their daily work needs, it has special financial management functions as well as money alerts. Users can invest their money on this app and make purchases and redemptions of funds and stocks. But this app is too feature-rich to be of any use to beginners.
+[Digging for Wealth] is an app for professional users and even for some finance staff to meet their daily work needs, it has special financial management functions as well as money alerts. Users can invest their money on this app and make purchases and redemptions of funds and stocks. But this app is too feature-rich to be of any use to beginners.
 
 ### Existing App: timi Bookkeeping
 
-Timi Bookkeeping] is the simplest of the several existing bookkeeping apps mentioned above, but the core functionality is generally complete, but some useless new features have been added (e.g. photo bookkeeping, but this feature has been removed in the latest version) and there are opening screen ads.
+[Timi Bookkeeping] is the simplest of the several existing bookkeeping apps mentioned above, but the core functionality is generally complete, but some useless new features have been added (e.g. photo bookkeeping, but this feature has been removed in the latest version) and there are opening screen ads.
 
