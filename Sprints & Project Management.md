@@ -60,7 +60,7 @@ During the development process we were divided into 3 phases: Preparatory Phase,
 * T7: After the fifth meeting of Zoom, the overall project was almost completed and all the features were tested. It was also made available to some users for use and to gather their opinions.
 * T8: After the sixth meeting of Zoom, the whole project was summarised, the readme file was sorted and supplemented, all the previous text files were uploaded, and the whole readme file was optimised and ready for submission to the team.
 
-The following is a review of our Zoom meetings at six key points in time, and [here](https://shimo.im/sheets/C9Qk8y6hDyPVX3xw/MODOC/ are the minutes of our meetings. Below we will elaborate on the discussions we had during the Zoom meetings in response to some of the questions.
+The following is a review of our Zoom meetings at six key points in time, and (https://shimo.im/sheets/C9Qk8y6hDyPVX3xw/MODOC/ are the minutes of our meetings. Below we will elaborate on the discussions we had during the Zoom meetings in response to some of the questions.
 
 In this Zoom meeting on 3 April, we focused on the presentation and discussion of Familiarisation with what the team project entails. Getting to know the different positions needed for the project as a whole and assigning the work that each person should handle. Rationalising the project according to the requirements of the task and defining the direction we should design. For example, we ended up with the idea of designing a bookkeeping webpage called Fortune Cat and adding fun game elements to it at the beginning of May.
 
