@@ -4,7 +4,7 @@ For the management of this collaborative project, we chose the Stagewise-Model a
 
 The difference between an iteration and a version can be understood as follows: an iteration generally refers to the production process of a particular version, including from the analysis of requirements to the completion of testing; a version generally refers to the result of a phase of software development, a deliverable product. A specific illustration of the iteration model is as follows.
 
-![model](/Users/ccar/Desktop/report/model.png)
+![model](https://github.com/ccar728/uob-gruopProject/blob/main/model.png)
 
 Benefits: 
 
