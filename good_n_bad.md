@@ -2,9 +2,9 @@
 
 In "Gamification in Action", Tae-Yu Kim summarises eight core drivers of user behaviour, which in part nicely illustrate the various designs in bookkeeping apps.
 
-**Core Driver 1: Epic Meaning and Mission. This driver means: the internal drive of people who need meaning to reinforce their behaviour. Users are motivated to become driven when they believe they are not just accomplishing something, but working towards a great mission. **
+**Core Driver 1: Epic Meaning and Mission. This driver means: the internal drive of people who need meaning to reinforce their behaviour. Users are motivated to become driven when they believe they are not just accomplishing something, but working towards a great mission.**
 
-**Core Driver 2: Progress and Achievement. This drive is the desire to grow and be recognised; a natural intrinsic drive to make progress, improve skills, complete tasks and overcome obstacles. **
+**Core Driver 2: Progress and Achievement. This drive is the desire to grow and be recognised; a natural intrinsic drive to make progress, improve skills, complete tasks and overcome obstacles.**
 
 
 
