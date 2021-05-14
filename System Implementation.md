@@ -146,7 +146,7 @@ The front-end is developed using TypeScript and React.
 
    11. It can be accessed through the network. The MongoDB database can be accessed remotely through the network.
 
-   ![mongoDB](/Users/ccar/Desktop/report/mongoDB.png)
+   ![mongoDB](https://github.com/ccar728/uob-gruopProject/blob/main/mongoDB.png)
 
 4. **koa2 Framework**
 
