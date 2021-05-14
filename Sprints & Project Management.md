@@ -47,7 +47,7 @@ Benefits:
 
 For this team project, we are team number 17 and we drew up a schedule with 6 meetings at several important points (between April 3rd and May 5th, which is the sprint period for our team project, each team member was asked to participate as much as possible, especially if the discussion was relevant to the member's position and should be mandatory), and listed the key issues that the team members should discuss in each meeting. These issues were crucial to our team project, as some of our team were in China and some in the UK, and the entire schedule ended up being held in Zoom for convenience. This is followed by a description of what were the main issues of concern and discussion during our last 6 sprints. The schedule is as follows.
 
-![gantt chart](/Users/ccar/Desktop/report/gantt chart.jpg)
+![gantt chart](https://github.com/ccar728/uob-gruopProject/blob/main/gantt%20chart.jpg)
 
 During the development process we were divided into 3 phases: Preparatory Phase, Spring Cycle, Final Stage, each with a small T-phase, the Preparatory Phase consisted of two T1 and T2 events, the Sprint Cycle phase consisted of During the Sprint Cycle phase, our team was able to move very quickly through the project, and we were able to quickly locate the problems that each of us had after the Zoom meeting, make changes and optimise them, and start working on the next tasks. At the final stage, there was only one T8 event, at which point our project was completed and the overall minor changes were made during the T8 event. The following is a collation of all the T events.
 
@@ -60,7 +60,7 @@ During the development process we were divided into 3 phases: Preparatory Phase,
 * T7: After the fifth meeting of Zoom, the overall project was almost completed and all the features were tested. It was also made available to some users for use and to gather their opinions.
 * T8: After the sixth meeting of Zoom, the whole project was summarised, the readme file was sorted and supplemented, all the previous text files were uploaded, and the whole readme file was optimised and ready for submission to the team.
 
-The following is a review of our Zoom meetings at six key points in time, and [here](https://shimo.im/sheets/C9Qk8y6hDyPVX3xw/MODOC/ 「Meeting Minutes」，可复制链接后用石墨文档 App 或小程序打开) are the minutes of our meetings. Below we will elaborate on the discussions we had during the Zoom meetings in response to some of the questions.
+The following is a review of our Zoom meetings at six key points in time, and [here](https://shimo.im/sheets/C9Qk8y6hDyPVX3xw/MODOC/ are the minutes of our meetings. Below we will elaborate on the discussions we had during the Zoom meetings in response to some of the questions.
 
 In this Zoom meeting on 3 April, we focused on the presentation and discussion of Familiarisation with what the team project entails. Getting to know the different positions needed for the project as a whole and assigning the work that each person should handle. Rationalising the project according to the requirements of the task and defining the direction we should design. For example, we ended up with the idea of designing a bookkeeping webpage called Fortune Cat and adding fun game elements to it at the beginning of May.
 
@@ -86,4 +86,4 @@ Our team set up a github account, and when creating the repository, we realised 
 
 The overall GIT continuous integration and deployment mainly involves basic git commands, including git clone, git add, git commit, git push, etc. The deployment of the project code is done through the basic git commands. 
 
-![gitRepo](/Users/ccar/Desktop/report/gitRepo.png)
+![gitRepo](https://github.com/ccar728/uob-gruopProject/blob/main/gitRepo.png)
