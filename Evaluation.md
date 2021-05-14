@@ -44,7 +44,47 @@ The front-end is developed using TypeScript and React.
 
 # Unit testing / Functional testing
 
+Unit testing is one of the most important aspects of software development. We must modularise and functionalise our code, breaking it down into smaller modules so that we can focus on testing the functionality of each module.
 
+For the back-end code modules we divide the entire testing into three broad modules.
+
+1. Test loading module
+
+   ![image-20210514194247033](Unit testing is one of the most important aspects of software development. We must modularise and functionalise our code, breaking it down into smaller modules so that we can focus on testing the functionality of each module.
+
+For the back-end code modules we divide the entire testing into three broad modules.
+
+1. Test loading module
+
+   ![image-20210514194247033](https://github.com/ccar728/uob-gruopProject/blob/main/loadingTest.png)
+
+2. Test enquiry module
+
+   ![image-20210514194318287](https://github.com/ccar728/uob-gruopProject/blob/main/queryTest.png)
+
+3. Overall function testing
+
+   Functions related to network requests are tested with postman simulations, other functions are simple and self-tested during development, no obvious bugs were found and they can meet the requirements
+
+For front-end part, we also divide the entire testing into three broad modules
+
+1. To test the loading code, we use manual testing, and after starting the project, everyone in our group tests the front-end startup code. Testing modules and functions that the module can test.
+2. Test the error detection module, and the theme module code. Test the entire module code and functions.
+3. Test component code. The functions related to network requests are all asynchronous and tested with postman simulation. Other functions are simple, self-tested during development, no obvious bugs found, can meet the needs)
+
+2. Test enquiry module
+
+   ![image-20210514194318287](/Users/ccar/Library/Application Support/typora-user-images/image-20210514194318287.png)
+
+3. Overall function testing
+
+   Functions related to network requests are tested with postman simulations, other functions are simple and self-tested during development, no obvious bugs were found and they can meet the requirements
+
+For front-end part, we also divide the entire testing into three broad modules
+
+1. To test the loading code, we use manual testing, and after starting the project, everyone in our group tests the front-end startup code. Testing modules and functions that the module can test.
+2. Test the error detection module, and the theme module code. Test the entire module code and functions.
+3. Test component code. The functions related to network requests are all asynchronous and tested with postman simulation. Other functions are simple, self-tested during development, no obvious bugs found, can meet the needs
 
 # User acceptance testing
 
